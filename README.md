@@ -19,3 +19,11 @@ Run the example
 1. start the server with `node examples/bidirectional/server.js`
 2. run the client with `php examples/bidirectional/client.php`
 
+
+What next?
+=============
+
+Use npm composer and as much as possible
+
+* Visit [dnode for nodejs](https://github.com/substack/dnode) and [dnode for php](https://github.com/bergie/dnode-php).
+* Visit [phptherightway.com](http://www.phptherightway.com/), [php-fig.org](http://www.php-fig.org/), [bower.io](http://bower.io/)

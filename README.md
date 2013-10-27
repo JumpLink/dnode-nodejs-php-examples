@@ -23,7 +23,7 @@ Run the example
 What next?
 =============
 
-Use npm composer and as much as possible
+Use npm, composer and bower as much as possible
 
 * Visit [dnode for nodejs](https://github.com/substack/dnode) and [dnode for php](https://github.com/bergie/dnode-php).
 * Visit [phptherightway.com](http://www.phptherightway.com/), [php-fig.org](http://www.php-fig.org/), [bower.io](http://bower.io/)

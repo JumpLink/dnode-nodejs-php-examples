@@ -1,0 +1,12 @@
+{
+    "name": "jumplink/dnode-php-test",
+    "require": {
+        "dnode/dnode": "*"
+    },
+    "authors": [
+        {
+            "name": "JumpLink",
+            "email": "jumplink@gmail.com"
+        }
+    ]
+}

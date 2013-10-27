@@ -7,7 +7,7 @@ Preparing the example
 ---------------
 
 1. install git
-2. clone this repo with `git clone git@github.com:JumpLink/dnode-nodejs-php-examples.git` and change directory `cd dnode-nodejs-php-examples`
+2. clone this repo with `git clone git@github.com:JumpLink/dnode-nodejs-php-examples.git && cd dnode-nodejs-php-examples`
 3. install [nodejs with npm](http://nodejs.org/)
 4. install php [with composer](http://getcomposer.org/)
 5. run `npm install`
